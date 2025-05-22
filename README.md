@@ -8,6 +8,7 @@
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/rusefi/rusefi/latest?color=blueviolet&label=Commits%20Since%20Release)
 </div>
 
+
 # rusEFI
 
 See [gcc_version_check.c](https://github.com/rusefi/rusefi/blob/master/firmware/gcc_version_check.c) for recommended version of GCC.
@@ -49,4 +50,5 @@ Check out https://rusefi.com/forum/viewtopic.php?f=5&t=9
 # Release Notes
 
 See [the changelog](firmware/CHANGELOG.md)
+
 
